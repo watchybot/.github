@@ -41,5 +41,5 @@ Server](https://discord.gg/HxVmafJA)!
 
 - Co-Owner & Lead Developer [@GR1ND3RJS](https://www.github.com/GR1ND3RJS)
 - Co-Owner & Lead Marketing [@jjamesiboi](https://github.com/jjamesiboi)
-- Interested in helping us? Check out our [Discord Server](https://discord.gg/HxVmafJA)! 
+- Interested in helping us? Check out our [Discord Server](https://discord.gg/HxVmafJA)!  
 
