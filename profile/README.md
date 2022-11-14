@@ -2,7 +2,7 @@
 # Watchy
 
 Watchy is the new generation of discord bots, making every feature advanced,
-yet still easy to use using our web dashboard. 
+yet still easy to use using our easy to understand and advanced web dashboard. 
 
 
 
